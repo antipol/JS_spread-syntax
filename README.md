@@ -39,8 +39,6 @@ Create a function that takes 4 integers as an argument and returns the minimum n
 * minRemovals(5, 7, 9, 12) ➞ 1 removal 
 
 
-#### 8. Spread Date
-Create an array which contains a year, a month and a date. Use spread to access the date of this array.
 
 
 
