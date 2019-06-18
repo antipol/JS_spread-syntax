@@ -17,8 +17,8 @@ Create a function to find the smallest number in an array.
 #### 5. Clone and Merge
 Given two objects:
 ```javascript
-const person = {name: "John"}
-const job = {role: "Teacher"}
+const person = {name: "Jonas"}
+const job = {role: "Developer"}
 ```
 * Clone the person object.
 * Merge these two objects into one object: "employee". Use the spread operator to do so. Then change the values of the properties in the employee object.
@@ -38,16 +38,8 @@ Create a function that takes 4 integers as an argument and returns the minimum n
 * minRemovals(5, 7, 9, 11) ➞ 0 removals 
 * minRemovals(5, 7, 9, 12) ➞ 1 removal 
 
-#### 8. Quadratic Equation 
-Create a function to find only the positive determinant value of x in any quadratic equation ax^2 + bx + c. The function will take three arguements:
 
-* a as the coefficient of x^2 (x to the power of 2)
-* b as the coefficient of x
-* c as the constant term
-
-Once you have solved this problem, pass in an array as an argument which contains three elements - check if this method still outputs the correct result! 
-
-#### 9. Spread Date
+#### 8. Spread Date
 Create an array which contains a year, a month and a date. Use spread to access the date of this array.
 
 
